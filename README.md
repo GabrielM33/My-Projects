@@ -14,10 +14,10 @@ Welcome to my GitHub portfolio! This repository showcases a collection of my pro
 
 ## Scratch Game
 
-### CS50 Scratch Project: [Project Name]
-- Description: Share details about the Scratch game you created as part of the CS50 course.
-- Play the Game: [Link to Play the Game on Scratch](scratch.mit.edu/projects/your-project-id)
-- Feedback: Mention any feedback or reviews received from players.
+### CS50 Scratch Project: Hungry Nemo
+- Description: This is my first ever programming project, created as part of the CS50 course.
+- Play the Game: https://scratch.mit.edu/projects/846876321/
+- Notes: This project gained some traction as over 500 people have played Hungry Nemo and gave valuable feddbacks.
 
 ## Swift
 
