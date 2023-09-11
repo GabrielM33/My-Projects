@@ -1,4 +1,4 @@
-Welcome to my GitHub portfolio! This repository showcases a collection of my projects and work in various fields, including Machine Learning, Unity Game Development with C#, Swift, and SQL. Feel free to explore the projects and provide feedback.
+Welcome to my GitHub portfolio! This repository showcases a collection of my projects and work in various fields, including Machine Learning with Python, Unity Game Development with C#, Swift, and SQL. Feel free to explore the projects and provide feedback.
 
 ### Machine Learning Projects
 
